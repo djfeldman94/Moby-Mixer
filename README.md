@@ -1,3 +1,16 @@
+# MobyMixer
+
+MobyMixer is remote audio mixing solution for controlling your PC's audio with your Android device (iOS and Mac support coming soon).
+Simply install the MobyMixer server on the machine you wish to control, install the MobyMixer application on the mobile device you wish
+to use as a controller, and you are ready to mix. MobyMixer is designed to be simple and easy to use, with a clean and intuitive interface and no
+initial setup required.
+
+## Who is MobyMixer for?
+
+MobyMixer is for anyone who wants to control their PC's audio from their mobile device. Whether you are a streamer, producer,
+or just want to turn your friends up on Discord, MobyMixer is for you.
+
+## Using MobyMixer
 
 ### Installation
 
@@ -38,3 +51,4 @@ created for each Audio Device with all the Audio Sessions that are using that de
 Main Fader
 : Refers to the Fader that controls the volume of all Audio Sessions OR Audio Devices in an Audio Group. Currently, the Main Fader is
 always the Audio Device of the auto-generated Audio Group. In future versions of MobyMixer, custom groups will be controlled by a virtual main fader.
+
