@@ -6,15 +6,15 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 0.1.2</title>
+      <title>Application 0.1.3</title>
       <pubDate>Wed, 22 Nov 2023 22:37:55 -08:00</pubDate>
-      <enclosure url="https://github.com/djfeldman94/Moby-Mixer/releases/download/TESTING/MobyMixer.v0.1.2.Installer.msi"
-        sparkle:version="0.1.2"
+      <enclosure url="https://github.com/djfeldman94/Moby-Mixer/releases/download/TESTING/MobyMixer.v0.1.3.Installer.msi"
+        sparkle:version="0.1.3"
         sparkle:shortVersionString="0.1"
         length="83726336"
         sparkle:os="windows"
         type="application/octet-stream"
-        sparkle:signature="eHcDv3YfBJ8zK9oiNBi5ST8GQh0ReyrFyR8ck0SJuj/Py3z2lLq+j8Jug1PujAWDvpSOA7PlKSCF7VkWKHywBA==" />
+        sparkle:signature="CMZXkGUOWeN5zbbANTN2g4ptcIsqAIc5d06kGr7c7VsjirsgkxGrhZLflReR3jhRn8UGwzE7G0JZhQ12xlYgBw==" />
     </item>
   </channel>
 </rss>
