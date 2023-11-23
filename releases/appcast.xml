@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>Application</title><description>Most recent changes with links to updates</description><language>en</language><item><title>Application 0.1.1</title><pubDate>Wed, 22 Nov 2023 22:37:55 -08:00</pubDate><enclosure url="MobyMixer%20v0.1.1%20Installer.msi" sparkle:version="0.1.1" sparkle:shortVersionString="0.1" length="83726336" sparkle:os="windows" type="application/octet-stream" sparkle:signature="s8bTze3XX8wQzKxT8sxwxUUvD1JTdOATVGetu8vVNoieqGO1vvxD8BVENA8GZs4CYKTygoiIhE+914ljb5wOAQ==" /></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 0.1.1</title>
+      <pubDate>Wed, 22 Nov 2023 22:37:55 -08:00</pubDate>
+      <enclosure url="https://github.com/djfeldman94/Moby-Mixer/releases/download/TESTING/MobyMixer.v0.1.1.Installer.msi"
+        sparkle:version="0.1.1"
+        sparkle:shortVersionString="0.1"
+        length="83726336"
+        sparkle:os="windows"
+        type="application/octet-stream"
+        sparkle:signature="s8bTze3XX8wQzKxT8sxwxUUvD1JTdOATVGetu8vVNoieqGO1vvxD8BVENA8GZs4CYKTygoiIhE+914ljb5wOAQ==" />
+    </item>
+  </channel>
+</rss>
